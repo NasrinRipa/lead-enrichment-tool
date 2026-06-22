@@ -1,4 +1,4 @@
-# web-traffic-estimator-tool
+# Lead Enrichment Tool
 
 A Python tool that enriches ecommerce lead data with **website age** and an
 **estimated web traffic level**, then categorizes and visualizes the leads by
