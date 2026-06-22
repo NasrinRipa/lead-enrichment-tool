@@ -89,15 +89,18 @@ signals, which is then bucketed into a level.
 | | onlineStore only | +15 |
 | | inStore only | +5 |
 
-**Score → level:**
+**Score → level → estimated monthly traffic:**
 
-| Traffic score | Level |
-|---|---|
-| ≥ 80 | 🟢 High |
-| ≥ 60 | 🟡 Medium |
-| ≥ 40 | 🟠 Low |
-| < 40 | 🔴 Very Low |
-| ignored / missing website | ⚪ Not Available |
+| Traffic score | Level | Est. visits / month* |
+|---|---|---|
+| ≥ 80 | 🟢 High | ~50,000+ |
+| ≥ 60 | 🟡 Medium | ~10,000 – 50,000 |
+| ≥ 40 | 🟠 Low | ~1,000 – 10,000 |
+| < 40 | 🔴 Very Low | under ~1,000 |
+| ignored / missing website | ⚪ Not Available | unknown |
+
+\* *Indicative ranges only. Real traffic is private — these bands are a rough
+proxy implied by the score, not measured analytics.*
 
 ---
 
@@ -124,13 +127,16 @@ individual business names.)*
 
 Out of **466 leads**:
 
-| Level | Leads | Share |
-|---|---|---|
-| 🟢 High | 151 | 32.4% |
-| 🟡 Medium | 146 | 31.3% |
-| 🟠 Low | 121 | 26.0% |
-| 🔴 Very Low | 38 | 8.2% |
-| ⚪ Not Available | 10 | 2.1% |
+| Level | Est. visits / month* | Leads | Share |
+|---|---|---|---|
+| 🟢 High | ~50,000+ | 151 | 32.4% |
+| 🟡 Medium | ~10,000 – 50,000 | 146 | 31.3% |
+| 🟠 Low | ~1,000 – 10,000 | 121 | 26.0% |
+| 🔴 Very Low | under ~1,000 | 38 | 8.2% |
+| ⚪ Not Available | unknown | 10 | 2.1% |
+
+\* *Indicative ranges only — a rough proxy implied by the traffic score, not
+measured analytics.*
 
 - Nearly **two-thirds (63.7%)** of leads land in the **High** or **Medium**
   tiers — a strong, established pool of prospects.
