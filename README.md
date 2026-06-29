@@ -188,3 +188,21 @@ python chart_business_vs_traffic.py
   creation dates, so those leads have a blank age and lose the age signal.
 - **WHOIS rate limits** mean large datasets take time — the tool paces and caches
   lookups, but a big file can still take several minutes.
+
+  # Ecommerized Services for Business Growth:  Ecommerce Business Intelligence Specialist
+ 
+Turn data into growth.
+
+The Ecommerce Business Intelligence Specialist helps both Ecommerized's internal teams and ecommerce business owners make smarter, data-driven decisions.
+
+For internal managers and sales teams, they research and enrich leads, analyze website traffic, identify high-potential prospects, and deliver qualified business opportunities to support client acquisition and growth.
+
+For business owners, they analyze store performance, customer behavior, product profitability, and growth trends to provide actionable insights, forecasting, and weekly or monthly reports. Their recommendations help businesses increase sales, improve customer acquisition, optimize product strategies, and understand where their business is heading.
+
+Services include lead research & enrichment, website traffic analysis, potential client identification, business performance analytics, profitability analysis, customer insights, growth forecasting, and strategic recommendations.
+
+![Ecommerized Services](Business Intelligence.png)
+
+
+  
+
