@@ -201,7 +201,7 @@ For business owners, they analyze store performance, customer behavior, product 
 
 Services include lead research & enrichment, website traffic analysis, potential client identification, business performance analytics, profitability analysis, customer insights, growth forecasting, and strategic recommendations.
 
-![Ecommerized Services](BusinessIntelligence.png)
+![Ecommerized Services](BIRole.png)
 
 
   
